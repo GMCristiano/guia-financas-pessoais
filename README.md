@@ -6,7 +6,7 @@
 
 ## Gestão de Despesas
 
-## Fundo de emergência
+## Fundo de Emergência
 
 ## Comissões Bancárias
 
@@ -30,7 +30,7 @@
 
 ## Cartões de Crédito e Cashback
 
-## Investimentos de Risco elevado
+## Investimentos de Risco Elevado
 
 ## Investimento Imobiliário
 
