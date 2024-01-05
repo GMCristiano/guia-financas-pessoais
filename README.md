@@ -18,6 +18,8 @@
 
 ## Créditos
 
+## Inflação
+
 ## Plano Poupança Reforma (PPR)
 
 ## Investimentos em Bolsa
