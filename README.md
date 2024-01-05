@@ -36,6 +36,8 @@
 
 ## Investimento Imobiliário
 
+## Patrimônio Líquido (Net Worth)
+
 ## FIRE
 
 ## Gestão de Contas e Testamento
