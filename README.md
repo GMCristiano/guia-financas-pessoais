@@ -40,6 +40,10 @@
 
 ## FIRE
 
+## Consumismo
+
+## Minimalismo
+
 ## Gestão de Contas e Testamento
 
 
